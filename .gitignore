@@ -1,0 +1,6 @@
+*.class
+*~
+!importante~
+ echo "Welcome to the Java World" > Hola.java
+ touch importante~ temporal~
+ javac Hola.java
